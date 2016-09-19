@@ -1,0 +1,8 @@
+dhcp_domain_name = ""
+ssh_public_key = ""
+vpc_cidr = "10.240.0.0/16"
+tag_name  = "kubernetes"
+subnet_cidr = "10.240.0.0/24"
+etcd_instance_type = "t2.small"
+controller_instance_type = "t2.small"
+worker_instance_type = "t2.small"
